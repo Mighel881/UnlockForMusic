@@ -1,0 +1,9 @@
+Package: com.nahtedetihw.unlockformusic
+Name: UnlockForMusic
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Unlock the screen when Music changes.
+Maintainer: Ethan Whited
+Author: Ethan Whited
+Section: Tweaks
+Depends: mobilesubstrate
